@@ -12,5 +12,5 @@ More features and documentation will be added as development continues.
 
 ### **1. Create Virtual Environment**
 ```bash
-python -m venv env
+Coming soon!!
 
