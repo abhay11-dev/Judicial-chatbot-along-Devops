@@ -12,7 +12,7 @@ import New_hearing from "../pages/New_hearing";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/", //keeping it "/"
     element: <App />,
     children: [
       {
