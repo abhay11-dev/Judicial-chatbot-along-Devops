@@ -30,7 +30,4 @@ language models to ensure accurate and context-aware legal assistance.
 
 ## **🚀 Project Setup**
 
-### **1. Create Virtual Environment**
-```bash
-Coming soon!!
 
