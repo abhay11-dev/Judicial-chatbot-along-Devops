@@ -11,6 +11,7 @@ relevant laws and precedents. It assists individuals by identifying legal issues
 possible courses of action, and offering guidance in a language they understand. This
 eliminates the need for costly legal consultations and empowers individuals to protect their
 rights more effectively.
+
 The system integrates Natural Language Processing (NLP) and Machine Learning
 (ML) models to interpret user queries, classify legal documents, and extract essential legal
 insights. Additionally, it incorporates Optical Character Recognition (OCR) for
@@ -20,6 +21,7 @@ discussions, and transformer-based AI models for accurate interpretation of lega
 
 Sanrakshan is an innovative AI-powered conversational assistant designed to streamline access to legal information and simplify judicial processes for users.  
 The goal of this project is to enhance accessibility, reduce manual workload, and provide quick guidance on common judicial and legal queries.
+
 Its state-of-the-art AI technologies with a focus on Natural
 Language Processing (NLP), deep learning, and legal domain-specific knowledge retrieval.
 The system is built upon a combination of machine learning models and AI- based
