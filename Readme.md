@@ -18,13 +18,6 @@ document processing, sentiment analysis for understanding the emotional tone of 
 discussions, and transformer-based AI models for accurate interpretation of legal texts.
 
 
-⚖️ Sanrakshan is an innovative AI-powered conversational assistant designed to streamline access to legal information and simplify judicial processes for users.  
-The goal of this project is to enhance accessibility, reduce manual workload, and provide quick guidance on common judicial and legal queries.
-Its state-of-the-art AI technologies with a focus on Natural
-Language Processing (NLP), deep learning, and legal domain-specific knowledge retrieval.
-The system is built upon a combination of machine learning models and AI- based
-language models to ensure accurate and context-aware legal assistance.
-
 
 ---
 
