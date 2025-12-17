@@ -11,18 +11,26 @@ relevant laws and precedents. It assists individuals by identifying legal issues
 possible courses of action, and offering guidance in a language they understand. This
 eliminates the need for costly legal consultations and empowers individuals to protect their
 rights more effectively.
-
 The goal of this project is to enhance accessibility, reduce manual workload, and provide quick guidance on common judicial and legal queries.
+
+Sanrakshan is an innovative AI-powered conversational assistant designed to streamline access to legal information and simplify judicial processes for users.
+
+The system integrates state-of-the-art AI technologies with a focus on Natural Language Processing (NLP), deep learning, and legal domain-specific knowledge retrieval.
+
+It incorporates Machine Learning (ML) models to interpret user queries, classify legal documents, and extract essential legal insights. Additionally, it supports Optical Character Recognition (OCR) for document processing, sentiment analysis for understanding the emotional tone of legal discussions, and transformer-based AI models for accurate interpretation of legal texts.
+
+The system is built upon a combination of machine learning models and AI-based language models to ensure accurate and context-aware legal assistance.
+
+Sanrakshan is an innovative AI-powered conversational assistant designed to streamline access to legal information and simplify judicial processes for users.  
+The goal of this project is to enhance accessibility, reduce manual workload, and provide quick guidance on common judicial and legal queries.
+
 Its state-of-the-art AI technologies with a focus on Natural
 Language Processing (NLP), deep learning, and legal domain-specific knowledge retrieval.
 The system is built upon a combination of machine learning models and AI- based
 language models to ensure accurate and context-aware legal assistance.
-The system integrates Natural Language Processing (NLP) and Machine Learning
-(ML) models to interpret user queries, classify legal documents, and extract essential legal
-insights. Additionally, it incorporates Optical Character Recognition (OCR) for
-document processing, sentiment analysis for understanding the emotional tone of legal
-discussions, and transformer-based AI models for accurate interpretation of legal texts.
 
+
+>>>>>>> experiment
 ---
 
 ## **🚀 Project Setup**
