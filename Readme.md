@@ -30,7 +30,13 @@ The system is built upon a combination of machine learning models and AI- based
 language models to ensure accurate and context-aware legal assistance.
 
 
->>>>>>> experiment
+ Git & GitHub Evidence
+
+- Git initialization and commits
+- Branch creation and merging
+- Merge conflict and resolution
+- GitHub repository with synced history
+
 ---
 
 ## **🚀 Project Setup**
