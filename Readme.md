@@ -1547,7 +1547,42 @@ This project uses open-source libraries with the following licenses:
 - Tesseract.js: Apache License 2.0
 - TailwindCSS: MIT License
 
+
+### Git commands
+- git init
+- git status
+- git add .
+- git commit -m "message"
+- git log --oneline
+- git branch
+- git checkout <branch>
+- git merge <branch>
+- git remote add origin <repo-url>
+- git push origin main
+- git push origin <branch> 
 ---
+
+
+## ✅ Conclusion
+
+This project helped me gain hands-on experience with Git Bash and GitHub.  
+I learned how to manage version control using commits, branches, merges, and conflict resolution.  
+It improved my understanding of collaborative development and maintaining clean project history.  
+Overall, this assignment strengthened my confidence in using Git for real-world projects.
+
+
+
+
+## ⚠️ Challenges Faced
+
+- Understanding the difference between working directory, staging area, and commits.
+- Managing multiple branches and switching between them.
+- Handling merge conflicts and resolving them correctly.
+- Keeping commit messages meaningful and structured.
+- Syncing local repository with GitHub without errors.
+
+
+
 
 ## 🙏 Acknowledgments
 
