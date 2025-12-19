@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Sanrakshan Banner](Untitled.jpg)
+![Sanrakshan Banner](poster.jpg)
 
 **Democratizing Access to Justice Through Artificial Intelligence**
 
@@ -1594,7 +1594,7 @@ This project was inspired by:
 
 ### Stay Connected
 
-- **Website**: [www.sanrakshan.com](https://www.sanrakshan.com) (Coming Soon)
+- **Website**: [https://judicialchatbot.onrender.com/](https://judicialchatbot.onrender.com/)
 - **Twitter**: [@SanrakshanAI](https://twitter.com/SanrakshanAI)
 - **LinkedIn**: [Sanrakshan](https://linkedin.com/company/sanrakshan)
 - **Blog**: [blog.sanrakshan.com](https://blog.sanrakshan.com)
