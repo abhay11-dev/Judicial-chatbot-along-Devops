@@ -1663,6 +1663,7 @@ We value your feedback! Help us improve Sanrakshan:
 <div align="center">
 
 ### ⚖️ Built with ❤️ for Justice
+### Thank you everyone 
 
 **Sanrakshan - Protecting Rights, Empowering Citizens**
 
