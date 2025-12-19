@@ -1553,10 +1553,10 @@ This project uses open-source libraries with the following licenses:
 
 ### Project Team
 
-- **Project Lead**: [Your Name]
-- **AI/ML Engineer**: [Team Member]
-- **Full Stack Developer**: [Team Member]
-- **UI/UX Designer**: [Team Member]
+- **Project Lead**: Abhayraj Singh Mandloi
+- **AI/ML Engineer**: Ansh Kumar
+- **Full Stack Developer**: Samrat Sarkar
+
 
 ### Special Thanks
 
@@ -1603,7 +1603,7 @@ This project was inspired by:
 
 We value your feedback! Help us improve Sanrakshan:
 
-📝 **Survey**: [User Feedback Form](https://forms.gle/your-form)  
+
 ⭐ **Star the Repo**: Show your support on GitHub  
 🐛 **Report Issues**: Help us identify bugs  
 💡 **Feature Requests**: Suggest new features
