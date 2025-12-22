@@ -24,6 +24,7 @@
 - [Problem Statement](#-problem-statement)
 - [Solution & Innovation](#-solution--innovation)
 - [Key Features](#-key-features)
+- [Screenshots](#screenshots)
 - [Technology Stack](#-technology-stack)
 - [System Architecture](#-system-architecture)
 - [AI/ML Components](#-aiml-components)
@@ -55,6 +56,33 @@ To democratize access to justice by making legal assistance affordable, accessib
 - **Reduce** dependency on expensive legal consultations
 - **Accelerate** case management and judicial workflows
 - **Enhance** transparency in legal proceedings
+
+---
+
+## 🖼️ Screenshots
+
+> The screenshots below demonstrate the project state and Git workflow observed during development (merge conflicts, commits, branch listings, and git logs).
+
+![Merge conflict in VS Code terminal](./Screenshot%202025-12-19%20191442.png)  
+**Figure 1 —** Merge conflict encountered during branch merge (conflict in `Readme.md`), shown in VS Code terminal.
+
+![Commit and push after resolving conflict](./Screenshot%202025-12-18%20192907.png)  
+**Figure 2 —** Commit message and push after resolving merge conflicts ("Resolved merge conflict between main and test branches").
+
+![VS Code Welcome & recent projects](./Screenshot%202025-12-18%20192847.png)  
+**Figure 3 —** VS Code Welcome screen showing `judicialchatbot` in recent projects.
+
+![Branch listing (git branch -a)](./Screenshot%202025-12-18%20192827.png)  
+**Figure 4 —** Local and remote branch listing (`bugfix`, `experiment`, `feature`, `main`, `test`).
+
+![Git log (oneline) with merge commits](./Screenshot%202025-12-17%20232502.png)  
+**Figure 5 —** `git log --oneline --decorate` showing commits and branch tags.
+
+![Filtered git log for 'Resolved merge conflict'](./Screenshot%202025-12-16%20200328.png)  
+**Figure 6 —** Filtered `git log` showing commits that mention "Resolved merge conflict".
+
+![Complete git log showing commit history](./Screenshot%202025-12-16%20200313.png)  
+**Figure 7 —** Full git commit history displayed in the terminal with annotations.
 
 ---
 
